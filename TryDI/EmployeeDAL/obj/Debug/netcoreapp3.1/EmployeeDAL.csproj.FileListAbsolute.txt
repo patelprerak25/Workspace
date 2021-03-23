@@ -1,9 +1,0 @@
-D:\CygnetWorkspace\TryDI\EmployeeDAL\bin\Debug\netcoreapp3.1\EmployeeDAL.deps.json
-D:\CygnetWorkspace\TryDI\EmployeeDAL\bin\Debug\netcoreapp3.1\EmployeeDAL.dll
-D:\CygnetWorkspace\TryDI\EmployeeDAL\bin\Debug\netcoreapp3.1\EmployeeDAL.pdb
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.csprojAssemblyReference.cache
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.AssemblyInfoInputs.cache
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.AssemblyInfo.cs
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.csproj.CoreCompileInputs.cache
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.dll
-D:\CygnetWorkspace\TryDI\EmployeeDAL\obj\Debug\netcoreapp3.1\EmployeeDAL.pdb
