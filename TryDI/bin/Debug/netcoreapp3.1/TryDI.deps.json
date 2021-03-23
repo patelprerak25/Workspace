@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TryDI/1.0.0": {
+        "dependencies": {
+          "EmployeeDAL": "1.0.0",
+          "EmpolyeeBAL": "1.0.0"
+        },
+        "runtime": {
+          "TryDI.dll": {}
+        }
+      },
+      "EmployeeDAL/1.0.0": {
+        "runtime": {
+          "EmployeeDAL.dll": {}
+        }
+      },
+      "EmpolyeeBAL/1.0.0": {
+        "dependencies": {
+          "EmployeeDAL": "1.0.0"
+        },
+        "runtime": {
+          "EmpolyeeBAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpolyeeBAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\bin\Debug\netcoreapp3.1\EmpolyeeBAL.deps.json
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\bin\Debug\netcoreapp3.1\EmpolyeeBAL.dll
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\bin\Debug\netcoreapp3.1\EmpolyeeBAL.pdb
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.csprojAssemblyReference.cache
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.AssemblyInfoInputs.cache
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.AssemblyInfo.cs
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.csproj.CoreCompileInputs.cache
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.dll
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.pdb
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\bin\Debug\netcoreapp3.1\EmployeeDAL.dll
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\bin\Debug\netcoreapp3.1\EmployeeDAL.pdb
+D:\CygnetWorkspace\TryDI\EmpolyeeBAL\obj\Debug\netcoreapp3.1\EmpolyeeBAL.csproj.CopyComplete

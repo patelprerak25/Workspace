@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmployeeDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EmployeeDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeDAL.dll": {}
+        }
+      },
+      "EmpolyeeBAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EmployeeDAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmpolyeeBAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpolyeeBAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeDAL/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeDAL/EmployeeDAL.csproj",
+      "msbuildProject": "../EmployeeDAL/EmployeeDAL.csproj"
+    },
+    "EmpolyeeBAL/1.0.0": {
+      "type": "project",
+      "path": "../EmpolyeeBAL/EmpolyeeBAL.csproj",
+      "msbuildProject": "../EmpolyeeBAL/EmpolyeeBAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EmployeeDAL >= 1.0.0",
+      "EmpolyeeBAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Prerak\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CygnetWorkspace\\TryDI\\TryDI\\TryDI.csproj",
+      "projectName": "TryDI",
+      "projectPath": "D:\\CygnetWorkspace\\TryDI\\TryDI\\TryDI.csproj",
+      "packagesPath": "C:\\Users\\Prerak\\.nuget\\packages\\",
+      "outputPath": "D:\\CygnetWorkspace\\TryDI\\TryDI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Prerak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\CygnetWorkspace\\TryDI\\EmployeeDAL\\EmployeeDAL.csproj": {
+              "projectPath": "D:\\CygnetWorkspace\\TryDI\\EmployeeDAL\\EmployeeDAL.csproj"
+            },
+            "D:\\CygnetWorkspace\\TryDI\\EmpolyeeBAL\\EmpolyeeBAL.csproj": {
+              "projectPath": "D:\\CygnetWorkspace\\TryDI\\EmpolyeeBAL\\EmpolyeeBAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
